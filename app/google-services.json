@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "359627819018",
+    "project_id": "velo-51d9b",
+    "storage_bucket": "velo-51d9b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359627819018:android:003ba3a636631fbda9b7f3",
+        "android_client_info": {
+          "package_name": "com.example.velo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359627819018-lvt7svprpe6q1f05nsuo5tvfsfnmdea4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.velo",
+            "certificate_hash": "95e106c3f435a6e484b151a5fddf9aad72c160f3"
+          }
+        },
+        {
+          "client_id": "359627819018-t7gkv59be1l7qp9v9vmdh2kf575u5e5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKW80vvN1d7EXELkV_0fyUgVyX3SPcKjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359627819018-t7gkv59be1l7qp9v9vmdh2kf575u5e5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
